@@ -1,6 +1,6 @@
 # Handwriting and Audio AI Projects
 
-This repository contains some basic AI projects I developed as a first approach to AI world, including neural networks for handwriting recognition and audio transcription using Whisper AI.
+This branch contains some basic AI projects I developed as a first approach to AI world, including neural networks for handwriting recognition and audio transcription using Whisper AI.
 
 ## Projects
 ### 1. Handwriting Recognition (MNIST)
